@@ -1,0 +1,50 @@
+#paineis-sobre {
+    margin-top: 20px
+}
+
+html,
+body {
+    height: 100%;
+}
+
+header {
+    background-image: url(../img/criancas10.jpg);
+    background-position: top center;
+    background-size: cover;
+    height: 100%;
+}
+
+header h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.casaFina-banner {
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    max-width: : 90%;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: .5s;
+}
+
+.titulo {
+    background-color: #708090;
+    color: #FFFFF0;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-bottom: 0;
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.footer {
+    background: #333;
+    color: #FFF;
+    padding: 1em;
+    margin-top: 10px;
+}

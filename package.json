@@ -1,0 +1,33 @@
+{
+    "name": "portal-acompanhamento-escolar",
+    "version": "1.0.0",
+    "description": "Portal do Sistema de Acompanhamento Escolar",
+    "main": "index.js",
+    "engines": {
+        "node": "7.4.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/michelmedeiros/portal-acompanhamento-escolar.git"
+    },
+    "keywords": [
+        "portal",
+        "acompanhamento",
+        "escolar"
+    ],
+    "author": "Michel Medeiros",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/michelmedeiros/portal-acompanhamento-escolar/issues"
+    },
+    "homepage": "https://github.com/michelmedeiros/portal-acompanhamento-escolar#readme",
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "express": "^4.14.1",
+        "jquery": "^2.2.4"
+    }
+}
